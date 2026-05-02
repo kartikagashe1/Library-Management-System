@@ -63,7 +63,7 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
+> 
 During this course, I learned the fundamentals of web development and project design.
 I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
 problem-solving, teamwork, documentation, and delivering real-world project solutions.
@@ -102,13 +102,14 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
+> 
 During my internship with Sure Trust, I had the opportunity to attend various Life Skills Training (LST) and Soft Skills Training (SST) sessions conducted by experienced professionals. These sessions helped me improve my communication skills, problem-solving abilities, teamwork, and overall confidence.
 
 The guidance provided by the mentors and experts played a significant role in enhancing my technical knowledge as well as my personal development. The interactive sessions and real-world insights helped me better understand industry expectations and professional work culture.
 
+
 I would like to express my sincere gratitude to Sure Trust, the mentors, and all the experts for their continuous support and guidance throughout the internship. Their valuable inputs and encouragement have contributed greatly to my learning journey and successful completion of this project.
----
+
 
 ## **Community Services**
 
