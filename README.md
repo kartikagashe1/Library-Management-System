@@ -134,7 +134,6 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://github.com/kartikagashe1/Library-Management-System/blob/main/TREE%20PLANTATION.png" alt="Community Service Photo 2" width="30%">
@@ -161,3 +160,4 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
+- [Akshara A. Ma'am](https://www.linkedin.com/in/akshara-a/), Software Developer @ Propel Technology
